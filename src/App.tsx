@@ -66,14 +66,11 @@ function App() {
                               </div>
                           </td>
                           <td>
-                              Zemlak, Daniel and Leannon
+                              Java 17 +, J2EE, JSF
                               <br/>
-                              <span className="badge badge-ghost badge-sm">Desktop Support Technician</span>
+                              <span className="badge badge-ghost badge-sm">Worked in Banking, Securities, Insurance domain</span>
                           </td>
-                          <td>Purple</td>
-                          <th>
-                              <button className="btn btn-ghost btn-xs">details</button>
-                          </th>
+                          <td>10+</td>
                       </tr>
                       {/* row 2 */}
                       <tr>
@@ -96,14 +93,11 @@ function App() {
                               </div>
                           </td>
                           <td>
-                              Carroll Group
+                              Spring, Spring-Boot, Spring MVC, Spring Data
                               <br/>
-                              <span className="badge badge-ghost badge-sm">Tax Accountant</span>
+                              <span className="badge badge-ghost badge-sm">Spring, Kafka, Scheduler, Spring Reactive</span>
                           </td>
-                          <td>Red</td>
-                          <th>
-                              <button className="btn btn-ghost btn-xs">details</button>
-                          </th>
+                          <td>10+</td>
                       </tr>
                       {/* row 3 */}
                       <tr>
@@ -125,48 +119,17 @@ function App() {
                               </div>
                           </td>
                           <td>
-                              Rowe-Schoen
+                              Javascript, Angular, JQuery, React, Redux, HTML5, CSS3, Bootstrap
                               <br/>
-                              <span className="badge badge-ghost badge-sm">Office Assistant I</span>
+                              <span className="badge badge-ghost badge-sm">Worked in front-end technologies</span>
                           </td>
-                          <td>Crimson</td>
-                          <th>
-                              <button className="btn btn-ghost btn-xs">details</button>
-                          </th>
+                          <td>1+</td>
                       </tr>
-                      {/* row 4 */}
-                      {/*<tr>*/}
-                      {/*    <td>*/}
-                      {/*        <div className="flex items-center gap-3">*/}
-                      {/*            <div className="avatar">*/}
-                      {/*                <div className="mask mask-squircle h-12 w-12">*/}
-                      {/*                    <img*/}
-                      {/*                        src="https://img.daisyui.com/images/profile/demo/5@94.webp"*/}
-                      {/*                        alt="Avatar Tailwind CSS Component"/>*/}
-                      {/*                </div>*/}
-                      {/*            </div>*/}
-                      {/*            <div>*/}
-                      {/*                <div className="font-bold">Yancy Tear</div>*/}
-                      {/*                <div className="text-sm opacity-50">Brazil</div>*/}
-                      {/*            </div>*/}
-                      {/*        </div>*/}
-                      {/*    </td>*/}
-                      {/*    <td>*/}
-                      {/*        Wyman-Ledner*/}
-                      {/*        <br/>*/}
-                      {/*        <span className="badge badge-ghost badge-sm">Community Outreach Specialist</span>*/}
-                      {/*    </td>*/}
-                      {/*    <td>Indigo</td>*/}
-                      {/*    <th>*/}
-                      {/*        <button className="btn btn-ghost btn-xs">details</button>*/}
-                      {/*    </th>*/}
-                      {/*</tr>*/}
                       </tbody>
                   </table>
               </div>
 
           </div>
-
       </>
   )
 }
